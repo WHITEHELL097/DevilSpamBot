@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/WHITEHELL097/DevilBotSpam",
+    "repository": "https://github.com/WHITEHELL097/DevilSpamBot",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
