@@ -1,0 +1,5 @@
+build:
+  docker:
+    Devil: Dockerfile
+run:
+  Devil: python3 -m main.py
